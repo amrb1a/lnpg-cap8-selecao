@@ -9,9 +9,9 @@
 ## Análise Comparativa das Atividades 
 
 ### [cite_start]Atividade 1: Substituição de `goto` por Laços (Java, Python, Haskell, Swift)
-* **Facilidade de Escrita:** Na minha opinião, Python é a linguagem com maior facilidade de escrita nesse exemplo, porque o código fica mais curto e direto, sem precisar de muitos símbolos extras. A estrutura do while também é bem clara e fácil de entender.
+* **Simplicidade de escrita:** Na minha opinião, Python é a linguagem com maior facilidade de escrita nesse exemplo, porque o código fica mais curto e direto, sem precisar de muitos símbolos extras. A estrutura do while também é bem clara e fácil de entender.
 * **Legibilidade:** Java foi a que achei mais fácil de ler. O uso de chaves para delimitar os blocos deixa bem claro onde cada parte do código começa e termina, o que transmite maior organização na estrutura.
-* **Melhor Combinação:** Swift, na minha visão, é a que melhor equilibra os dois pontos. Ela mantém uma escrita simples, parecida com Python, mas ao mesmo tempo traz uma estrutura mais organizada, semelhante à do Java.
+* **Melhor equilíbrio:** Swift, na minha visão, é a que melhor equilibra os dois pontos. Ela mantém uma escrita simples, parecida com Python, mas ao mesmo tempo traz uma estrutura mais organizada, semelhante à do Java.
 
 ### Atividade 2: Sentença de Seleção Múltipla (C, Ruby, Erlang)
 * **C:** Na minha visão, em C o código acaba ficando mais extenso. O uso constante de break para evitar que um caso “caia” no outro deixa a escrita mais repetitiva e aumenta a chance de esquecer algum.
